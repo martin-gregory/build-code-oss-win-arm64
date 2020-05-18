@@ -21,7 +21,7 @@ Visual Studio Community 2019 16.5.5, with the following components
 - Python 2 32-bit (2.7.16)
 - Windows SDK: 10.0.19041.0
 
-### Node.js - globally installed packaged
+### Node.js - globally installed packages
 
 - node v12.16.3  
 - node-gyp v6.1.0
